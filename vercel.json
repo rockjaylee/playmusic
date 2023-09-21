@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://cloudmusic-rowg.vercel.app/:match*"
+    }
+  ]
+}
